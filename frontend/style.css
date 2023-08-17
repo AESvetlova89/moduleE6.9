@@ -1,0 +1,12 @@
+.container{
+    padding: 10% 40% 0 60%;
+}
+
+input:invalid {
+    border-color: #800000;
+    border-width: 3px;
+  }
+
+h4{
+    text-align: center;
+}
